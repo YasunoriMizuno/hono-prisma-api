@@ -33,3 +33,5 @@ lerna-debug.log*
 .DS_Store
 
 /src/generated/prisma
+prisma/dev.db
+prisma/dev.db-journal
